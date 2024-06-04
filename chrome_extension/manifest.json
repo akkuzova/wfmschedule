@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "WFM Schedule Export",
+  "description": "Save your schedule from BlueYounder WFM as an iCal file",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "./icons/extension_icon.png"
+  }
+}
